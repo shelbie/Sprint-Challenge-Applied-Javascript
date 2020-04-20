@@ -29,14 +29,19 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your team lead.
 
 1. What is the DOM?
+Document Object Model - represents the page so that programs can change the document structure, style and content, basically allowing manipulation.
 
 2. What is an event?
+Actions that occur as result of the change of elements.
 
 3. What is an event listener?
+Fucntion or procedure that listens (aka "waits") for an event to occur.
 
 4. Why would we convert a NodeList into an Array?
+querySelectorAll returns an array-like object called Nodelist, they can not be used with array methods such as forEach or manp.. That's why we convert them into an array, to be able to use them.
 
 5. What is a component?
+Re-usable custom code (API) and can be used while information returned within a component can be changed.
 
 ### Git Set up
 
